@@ -11,6 +11,6 @@ Get Involved
 Interested in joining us? Whether you're a seasoned developer, a beginner coder, or simply someone with a passion for space and technology, there's a place for you in our community! Check out our repositories, contribute to projects, or reach out to us if you'd like to collaborate.
 
 Contact
-For any inquiries or collaborations, feel free to reach out to us at [ismailsherifwork@gmail.com] or join our community on [facebook.com/nasa-space-apps-hurghada].
+For any inquiries or collaborations, feel free to reach out to us at (ismailsherifwork@gmail.com)[ismailsherifwork@gmail.com] or join our community on [facebook.com/nasa-space-apps-hurghada].
 
 Thank you for visiting our organization! Let's build something amazing together. 🚀🌍
