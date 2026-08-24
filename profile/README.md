@@ -16,7 +16,7 @@ NASA Space Apps Hurghada is a community-driven initiative bringing together deve
 We welcome contributions across all disciplines:
 
 * **Repository Engagement:** Browse active projects, submit issues, or fork codebases.
-* **Code Contributions:** Review each repository's `CONTRIBUTING.md` guidelines before opening pull requests.
+* **Code Contributions:** Review each repository's guidelines before opening pull requests.
 * **Project Continuation:** Collaborate with maintainers to transition hackathon prototypes into active open-source products.
 
 ## Contact and Inquiries
